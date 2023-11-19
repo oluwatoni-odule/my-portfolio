@@ -17,12 +17,12 @@ Hello! I am Oluwatoni, and this is a highlight of my web development journey —
 - ### Project 2: [Weather App]
 - Description: SPA delivering real-time weather for any location with a simple name input. Explore weather at your fingertips! 🌐🌦️
 - Technologies Used: HTML, CSS, React & APIs.
-- Link: [Live Demo](oluwatoni-odule.github.io/Weather-App) | [GitHub Repo](github.com/oluwatoni-odule/Weather-App)
+- Link: [Live Demo](https://oluwatoni-odule.github.io/Weather-App) | [GitHub Repo](https://github.com/oluwatoni-odule/Weather-App)
 
 - ### Project 3: [Expense Tracker]
 - Description: Streamlined SPA for effortless expense tracking — effortlessly manage both income and expenses with a user-friendly interface. Simplify your financial journey! 💰✨
 - Technologies Used: HTML, CSS, React & Context API.
-- Link: [Live Demo](oluwatoni-odule.github.io/Expense-Tracker-App) | [GitHub Repo](github.com/oluwatoni-odule/Expense-Tracker-App)
+- Link: [Live Demo](https://oluwatoni-odule.github.io/Expense-Tracker-App) | [GitHub Repo](https://github.com/oluwatoni-odule/Expense-Tracker-App)
 
 - ## 📧 Contact
 
