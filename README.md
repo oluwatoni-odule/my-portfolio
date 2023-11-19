@@ -22,7 +22,7 @@ Hello! I am Oluwatoni, and this is a highlight of my web development journey —
 - ### Project 3: [Expense Tracker]
 - Description: Streamlined SPA for effortless expense tracking — effortlessly manage both income and expenses with a user-friendly interface. Simplify your financial journey! 💰✨
 - Technologies Used: HTML, CSS, React & Context API.
-- Link: [Live Demo](oluwatoni-odule.github.io/Expense-Tracker) | [GitHub Repo](github.com/oluwatoni-odule/Expense-Tracker)
+- Link: [Live Demo](oluwatoni-odule.github.io/Expense-Tracker-App) | [GitHub Repo](github.com/oluwatoni-odule/Expense-Tracker-App)
 
 - ## 📧 Contact
 
