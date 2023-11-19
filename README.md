@@ -24,6 +24,10 @@ Hello! I am Oluwatoni, and this is a highlight of my web development journey —
 - Technologies Used: HTML, CSS, React & Context API.
 - Link: [Live Demo](https://oluwatoni-odule.github.io/Expense-Tracker-App) | [GitHub Repo](https://github.com/oluwatoni-odule/Expense-Tracker-App)
 
+- ## 📈 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwatoni-odule&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/oluwatoni-odule)
+
 - ## 📧 Contact
 
 📩 Email: odulenulerm6@gmail.com  
