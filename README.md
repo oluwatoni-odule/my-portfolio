@@ -10,7 +10,7 @@ Hello! I am Oluwatoni, and this is a highlight of my web development journey —
 - ## 💼 Projects Showcase
 
 - ### Project 1: [Room Homepage]
-- Description: A frontendmentor.io project to text and challenge advanced CSS, intermediate level JavaScript and responsive web design.
+- Description: A frontendmentor.io project to test and challenge advanced CSS, intermediate level JavaScript and responsive web design.
 - Technologies Used: HTML, CSS (Sass) & JavaScript.
 - Link: [Live Demo](oluwatoni-odule.github.io/room-homepage-challenge) | [GitHub Repo](github.com/oluwatoni-odule/room-homepage-challenge)
 
