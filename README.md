@@ -12,7 +12,7 @@ Hello! I am Oluwatoni, and this is a highlight of my web development journey —
 - ### Project 1: [Room Homepage]
 - Description: A frontendmentor.io project to test and challenge advanced CSS, intermediate level JavaScript and responsive web design.
 - Technologies Used: HTML, CSS (Sass) & JavaScript.
-- Link: [Live Demo](oluwatoni-odule.github.io/room-homepage-challenge) | [GitHub Repo](github.com/oluwatoni-odule/room-homepage-challenge)
+- Link: [Live Demo](https://oluwatoni-odule.github.io/room-homepage-challenge) | [GitHub Repo](https://github.com/oluwatoni-odule/room-homepage-challenge)
 
 - ### Project 2: [Weather App]
 - Description: SPA delivering real-time weather for any location with a simple name input. Explore weather at your fingertips! 🌐🌦️
