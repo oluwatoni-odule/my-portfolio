@@ -1,36 +1,66 @@
-# my-portfolio
-Hello! I am Oluwatoni, and this is a highlight of my web development journey — a canvas where creativity meets code. Explore my projects and witness the magic of turning ideas into interactive experiences. From responsive designs to dynamic React applications, welcome to a showcase of my passion for crafting seamless and engaging web solutions. 
+# Toni Odule
 
-## 🚀 Skills & Proficiencies
-- **Languages:** HTML, CSS, JavaScript
-- **Libraries/Frameworks:** React, Redux
-- **Responsive Design:** Media Queries, Flexbox, Grid
-- **Version Control:** Git, GitHub
-- **Other:** RESTful APIs, Context API, State Management
-- ## 💼 Projects Showcase
+## FRONT-END ENGINEER
 
-- ### Project 1: [Room Homepage]
-- Description: A frontendmentor.io project to test and challenge advanced CSS, intermediate level JavaScript and responsive web design.
-- Technologies Used: HTML, CSS (Sass) & JavaScript.
-- Link: [Live Demo](https://oluwatoni-odule.github.io/room-homepage-challenge) | [GitHub Repo](https://github.com/oluwatoni-odule/room-homepage-challenge)
+Lagos, Nigeria | +234 706 726 5645 | [oluwatoniodule@gmail.com](mailto:oluwatoniodule@gmail.com)
 
-- ### Project 2: [Weather App]
-- Description: SPA delivering real-time weather for any location with a simple name input. Explore weather at your fingertips! 🌐🌦️
-- Technologies Used: HTML, CSS, React & APIs.
-- Link: [Live Demo](https://oluwatoni-odule.github.io/Weather-App) | [GitHub Repo](https://github.com/oluwatoni-odule/Weather-App)
+[LinkedIn](https://www.linkedin.com/in/oluwatoni-odule/) | [GitHub](https://github.com/oluwatoni-odule) | [Portfolio](https://portfolio-project-oluwatoni.vercel.app/)
 
-- ### Project 3: [Expense Tracker]
-- Description: Streamlined SPA for effortless expense tracking — effortlessly manage both income and expenses with a user-friendly interface. Simplify your financial journey! 💰✨
-- Technologies Used: HTML, CSS, React & Context API.
-- Link: [Live Demo](https://oluwatoni-odule.github.io/Expense-Tracker-App) | [GitHub Repo](https://github.com/oluwatoni-odule/Expense-Tracker-App)
+---
 
-- ## 📈 GitHub Stats
+## PROFESSIONAL SUMMARY
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwatoni-odule&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/oluwatoni-odule)
+Front-End Engineer with 2+ years of experience building responsive, scalable web applications for insurance, food-tech, and content-driven products. Strong in React, Next.js, TypeScript, Vite, state management, reusable UI systems, and REST API integration. Skilled at translating product requirements and client feedback into reliable, accessible interfaces while collaborating with backend and QA teams.
 
-- ## 📧 Contact
+## CORE TECHNOLOGIES
 
-📩 Email: odulenulerm6@gmail.com  
-🔗 Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~010fbaa80d041b0ba1)  
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Frameworks & Tooling:** React, Next.js, Vite, Node.js
+- **UI & Styling:** Tailwind CSS, Shadcn UI, Radix UI, Material UI, Chakra UI, Sass, Bootstrap
+- **State, Data & Quality:** React Query, Redux Toolkit, Zustand, Context API, Zod, Jest, REST APIs, Git, GitHub, Postman
 
-Let's connect and build something amazing together! 🚀
+## PROFESSIONAL EXPERIENCE
+
+### Canalis — Front-End Engineer
+
+**Oct 2024 – Present**
+
+- Build and maintain responsive Life, General, and health-insurance platforms for emPLE using React, Next.js, TypeScript, and reusable component systems.
+- Deliver frontend workflows across policy administration, service-provider onboarding, bookings, claims assessment, authorization-based claim registration, and policy certificate generation.
+- Integrate REST APIs and manage server and client state with React Query, Redux, and Zustand for policy, claims, and authentication workflows.
+- Translate stakeholder feedback into production-ready features while collaborating with backend and QA engineers to resolve edge cases and maintain release quality.
+
+### Eat Cheffie (Contract) — Front-End Engineer
+
+**Nov 2024 – Mar 2025**
+
+- Developed a responsive, accessible vendor-facing platform using Next.js, TypeScript, and Material UI.
+- Built API-driven workflows with Redux Toolkit and Zod, strengthening state consistency, form validation, and data integrity.
+- Supported code reviews and API testing with GitHub and Postman.
+
+### Kreela — Front-End Engineer
+
+**Jan 2024 – Sep 2024**
+
+- Translated Figma designs into accurate, responsive React interfaces across desktop and mobile devices.
+- Built reusable components, managed application state, and integrated external APIs to support real-time data and maintainable product growth.
+- Tested and debugged API integrations with Postman to improve reliability and frontend–backend compatibility.
+
+## SELECTED PROJECTS
+
+- **emPLE Insurance Platforms** — Life and General Insurance platforms, agency portal, and customer websites. Tech: React, Next.js, TypeScript, Tailwind CSS, Radix UI, Zustand, Zod, REST APIs. [Live](https://emple-web-nigeria-website-staging.inemple.ng/)
+- **Eat Cheffie Vendor Web** — Responsive vendor-facing web platform. Tech: Next.js, TypeScript, Material UI, Redux Toolkit, Zod, REST APIs. [Live](https://eatcheffie.com/)
+- **Lusions IA Website** — Content-driven website integrated with a headless CMS. Tech: Next.js, TypeScript, Tailwind CSS, Radix UI, Sanity. [Live](https://www.lusions.org/)
+- **Naebi Dynamic Concepts** — Responsive company website with CMS-managed content. Tech: React, TypeScript, Vite, Tailwind CSS, Redux Toolkit, Contentful. [Live](https://www.naebidynamic.com/)
+
+## EDUCATION
+
+- **Lagos State University, Lagos, Nigeria** — B.Eng., Electronics and Computer Engineering (2018 – 2023)
+- **Mzienet Systems, Ogun, Nigeria** — Diploma, Frontend Engineering (2022 – 2023)
+
+## CONTACT
+
+- Email: [oluwatoniodule@gmail.com](mailto:oluwatoniodule@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/oluwatoni-odule/](https://www.linkedin.com/in/oluwatoni-odule/)
+- GitHub: [https://github.com/oluwatoni-odule](https://github.com/oluwatoni-odule)
+- Portfolio: [https://portfolio-project-oluwatoni.vercel.app/](https://portfolio-project-oluwatoni.vercel.app/)
